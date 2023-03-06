@@ -1,3 +1,17 @@
+Nous sommes dans la partie front du projet. En voici les objectifs :
+# L’interface est responsive et possède un darkmode
+L'interface de l'application s'adapte à tout format d'écran : ordinateur, tablette, mobile, etc.
+Elle possède également un mode nuit, aidant à la réduction de l'incorfort visuel.
+# Les informations affichées n'ont pas une vocation uniquement « informative »
+Afin d'apporter une certaine plus-value aux informations, l'application propose une analyse de ces dernières.
+Par exemple, nous pouvons noter un musée en fonction de sa localisation et de son taux de fréquentation (impertinent pour notre sujet).
+# L’interface et les données affichées sont en corrélation avec l’utilisateur courant
+L'interface affiche les musées les plus proches de l'utilisateur en fonction de la localisation de son adresse IP.
+
+
+----------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
